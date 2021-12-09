@@ -1,1 +1,4 @@
 # FGOUnlockfps
+
+文件修改方法源自Reunionw/FGOFPSUnlocker;nishuoshenme/FGOFPSUnlocker两位大佬
+想要自己修改的可以去参考他们的项目
